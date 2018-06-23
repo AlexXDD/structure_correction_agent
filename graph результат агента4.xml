@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<Graph nodesize="7" vspacing="4" hspacing="28" padding="5" guid="f4994452-f333-4838-b147-646a2c861ac8" searchurl="">
+  <datagroups/>
+  <Nodes>
+    <Node guid="091ab6d1d5fe" nodeName="Св4_4" nclass="" shape="square" color="80" xPos="79" yPos="311" font="Verdana" fontsize="14"/>
+    <Node guid="86f40f1736f4" nodeName="Св3_5" nclass="" shape="square" color="80" xPos="61" yPos="696" font="Verdana" fontsize="14"/>
+    <Node guid="2fb2b0848401" nodeName="O1-1" nclass="" shape="circle" color="80" xPos="475" yPos="133" font="Verdana" fontsize="14"/>
+    <Node guid="7540e7c4864e" nodeName="Св4_6" nclass="" shape="square" color="80" xPos="71" yPos="560" font="Verdana" fontsize="14"/>
+    <Node guid="ac9965ac1e7e" nodeName="O1-2" nclass="" shape="circle" color="80" xPos="477" yPos="194" font="Verdana" fontsize="14"/>
+    <Node guid="681747836866" nodeName="O2-1" nclass="" shape="circle" color="16711680" xPos="336" yPos="499" font="Verdana" fontsize="14"/>
+    <Node guid="7ae36747980d" nodeName="Св4_7" nclass="" shape="square" color="80" xPos="63" yPos="651" font="Verdana" fontsize="14"/>
+    <Node guid="ebab2b784f14" nodeName="Св4_8" nclass="" shape="square" color="80" xPos="82" yPos="373" font="Verdana" fontsize="14"/>
+    <Node guid="bcf1bbb074ae" nodeName="Св1_1" nclass="" shape="square" color="80" xPos="75" yPos="114" font="Verdana" fontsize="14"/>
+    <Node guid="6f24b252b86c" nodeName="Св2_1" nclass="" shape="square" color="80" xPos="75" yPos="152" font="Verdana" fontsize="14"/>
+    <Node guid="0e3215a66eb2" nodeName="Св1_2" nclass="" shape="square" color="80" xPos="81" yPos="264" font="Verdana" fontsize="14"/>
+    <Node guid="378286741896" nodeName="Св3_1" nclass="" shape="square" color="80" xPos="73" yPos="70" font="Verdana" fontsize="14"/>
+    <Node guid="7f2b9e429752" nodeName="O1-3" nclass="" shape="circle" color="80" xPos="466" yPos="316" font="Verdana" fontsize="14"/>
+    <Node guid="3c7883687e91" nodeName="Св1_3" nclass="" shape="square" color="80" xPos="85" yPos="433" font="Verdana" fontsize="14"/>
+    <Node guid="ac258eda452f" nodeName="Св2_2" nclass="" shape="square" color="80" xPos="76" yPos="516" font="Verdana" fontsize="14"/>
+    <Node guid="bd85baa1ef71" nodeName="O2-2" nclass="" shape="circle" color="80" xPos="441" yPos="616" font="Verdana" fontsize="14"/>
+    <Node guid="c33e94f4a90c" nodeName="Св4_1" nclass="" shape="square" color="80" xPos="71" yPos="35" font="Verdana" fontsize="14"/>
+    <Node guid="c0d0ed60267a" nodeName="Св3_2" nclass="" shape="square" color="80" xPos="81" yPos="203" font="Verdana" fontsize="14"/>
+    <Node guid="533c22e3135a" nodeName="O1-4" nclass="" shape="circle" color="80" xPos="474" yPos="253" font="Verdana" fontsize="14"/>
+    <Node guid="dc662760926c" nodeName="O2-3" nclass="" shape="circle" color="80" xPos="451" yPos="678" font="Verdana" fontsize="14"/>
+    <Node guid="00b381fac227" nodeName="Св1_4" nclass="" shape="square" color="80" xPos="69" yPos="741" font="Verdana" fontsize="14"/>
+    <Node guid="340f795e8943" nodeName="Св2_3" nclass="" shape="square" color="80" xPos="67" yPos="778" font="Verdana" fontsize="14"/>
+    <Node guid="4c1dfbbbd994" nodeName="$1" nclass="" shape="circle" color="80" xPos="213" yPos="132" font="Verdana" fontsize="14"/>
+    <Node guid="303821068f91" nodeName="Св4_2" nclass="" shape="square" color="80" xPos="77" yPos="234" font="Verdana" fontsize="14"/>
+    <Node guid="85841bf59018" nodeName="Св3_3" nclass="" shape="square" color="80" xPos="84" yPos="402" font="Verdana" fontsize="14"/>
+    <Node guid="9e4b429d0946" nodeName="O2-4" nclass="" shape="circle" color="80" xPos="451" yPos="424" font="Verdana" fontsize="14"/>
+    <Node guid="bd84a8d65445" nodeName="$2" nclass="" shape="circle" color="65331" xPos="210" yPos="177" font="Verdana" fontsize="14"/>
+    <Node guid="b2948a34c99a" nodeName="Св4_3" nclass="" shape="square" color="80" xPos="82" yPos="342" font="Verdana" fontsize="14"/>
+    <Node guid="aad3e97d562b" nodeName="Св3_4" nclass="" shape="square" color="80" xPos="67" yPos="605" font="Verdana" fontsize="14"/>
+    <Node guid="c8f1e3f8aa23" nodeName="$3" nclass="" shape="circle" color="16711680" xPos="173" yPos="513" font="Verdana" fontsize="14"/>
+    <Node guid="9e94fe364ff7" nodeName="$5" nclass="" shape="circle" color="65280" xPos="263" yPos="255" font="Verdana" fontsize="14"/>
+    <Node guid="e7db1ea8a3f8" nodeName="Class1" nclass="Class1" shape="circle" color="80" xPos="799" yPos="240" font="Verdana" fontsize="14"/>
+    <Node guid="21ef34091100" nodeName="Class2" nclass="Class2" shape="circle" color="80" xPos="913" yPos="564" font="Verdana" fontsize="14"/>
+  </Nodes>
+  <Linkgroups>
+    <Group name="Class1" color="0"/>
+    <Group name="Default" color="10066329"/>
+    <Group name="Class2" color="0"/>
+    <Group name="Part_of" color="0"/>
+  </Linkgroups>
+  <Edges>
+    <Edge guid="2fb2b0848401" edgeName="link_1" node1="O1-1" node2="Class1" group="Class1" istwoway="false"/>
+    <Edge guid="ac9965ac1e7e" edgeName="link_2" node1="O1-2" node2="Class1" group="Class1" istwoway="false"/>
+    <Edge guid="7f2b9e429752" edgeName="link_3" node1="O1-3" node2="Class1" group="Class1" istwoway="false"/>
+    <Edge guid="533c22e3135a" edgeName="link_4" node1="O1-4" node2="Class1" group="Class1" istwoway="false"/>
+    <Edge guid="681747836866" edgeName="link_5" node1="O2-1" node2="Class2" group="Class2" istwoway="false"/>
+    <Edge guid="bd85baa1ef71" edgeName="link_6" node1="O2-2" node2="Class2" group="Class2" istwoway="false"/>
+    <Edge guid="dc662760926c" edgeName="link_7" node1="O2-3" node2="Class2" group="Class2" istwoway="false"/>
+    <Edge guid="9e4b429d0946" edgeName="link_8" node1="O2-4" node2="Class2" group="Class2" istwoway="false"/>
+    <Edge guid="9237d874a259" edgeName="link_9" node1="Св1_1" node2="$1" group="Part_of" istwoway="false"/>
+    <Edge guid="ea89b2d49d5f" edgeName="link_10" node1="Св2_1" node2="$1" group="Part_of" istwoway="false"/>
+    <Edge guid="ab34c82de341" edgeName="link_11" node1="$1" node2="O1-2" group="Part_of" istwoway="false"/>
+    <Edge guid="bd3697884767" edgeName="link_12" node1="$1" node2="O1-1" group="Part_of" istwoway="false"/>
+    <Edge guid="c1346f0ec5be" edgeName="link_13" node1="Св2_1" node2="$2" group="Part_of" istwoway="false"/>
+    <Edge guid="50f44ad9f72b" edgeName="link_14" node1="Св3_2" node2="$2" group="Part_of" istwoway="false"/>
+    <Edge guid="b72baefa41d4" edgeName="link_16" node1="$2" node2="O1-2" group="Part_of" istwoway="false"/>
+    <Edge guid="5ee7c6beeece" edgeName="link_17" node1="Св1_3" node2="$3" group="Part_of" istwoway="false"/>
+    <Edge guid="6b557a9ce2aa" edgeName="link_18" node1="Св2_2" node2="$3" group="Part_of" istwoway="false"/>
+    <Edge guid="5fcd041c2524" edgeName="link_19" node1="$3" node2="O2-2" group="Part_of" istwoway="false"/>
+    <Edge guid="fb430d6e0fd1" edgeName="link_25" node1="Св1_2" node2="$5" group="Part_of" istwoway="false"/>
+    <Edge guid="8d8c5e9a60bf" edgeName="link_28" node1="$5" node2="O1-4" group="Part_of" istwoway="false"/>
+    <Edge guid="a4025993793c" edgeName="link_29" node1="$5" node2="O1-3" group="Part_of" istwoway="false"/>
+    <Edge guid="0f545ad5b8c5" edgeName="link_39" node1="Св3_1" node2="O1-1" group="Part_of" istwoway="false"/>
+    <Edge guid="28cd43b2fa74" edgeName="link_40" node1="Св4_1" node2="O1-1" group="Part_of" istwoway="false"/>
+    <Edge guid="db93589eeadd" edgeName="link_41" node1="Св4_2" node2="O1-2" group="Part_of" istwoway="false"/>
+    <Edge guid="c69fbc1f2b38" edgeName="link_42" node1="Св4_3" node2="O1-3" group="Part_of" istwoway="false"/>
+    <Edge guid="f8af576a1464" edgeName="link_43" node1="Св3_4" node2="O2-2" group="Part_of" istwoway="false"/>
+    <Edge guid="2faf8d1f1f0b" edgeName="link_44" node1="Св4_6" node2="O2-2" group="Part_of" istwoway="false"/>
+    <Edge guid="9e8b708bf870" edgeName="link_45" node1="Св4_4" node2="O1-4" group="Part_of" istwoway="false"/>
+    <Edge guid="cd94a981fc0d" edgeName="link_46" node1="Св1_4" node2="O2-3" group="Part_of" istwoway="false"/>
+    <Edge guid="a683b678bc97" edgeName="link_47" node1="Св2_3" node2="O2-3" group="Part_of" istwoway="false"/>
+    <Edge guid="ab2feb8b3af3" edgeName="link_48" node1="Св3_5" node2="O2-3" group="Part_of" istwoway="false"/>
+    <Edge guid="66ba6ec28757" edgeName="link_49" node1="Св4_7" node2="O2-3" group="Part_of" istwoway="false"/>
+    <Edge guid="61cff98a1e63" edgeName="link_50" node1="Св4_8" node2="O2-4" group="Part_of" istwoway="false"/>
+    <Edge guid="A5D127EBA812" edgeName="link_53" node1="$2" node2="$5" group="Class1" istwoway="false"/>
+    <Edge guid="A680D866AE77" edgeName="link_143" node1="Св3_3" node2="O2-1" group="Class1" istwoway="false"/>
+    <Edge guid="A6810AE2CC95" edgeName="link_144" node1="$3" node2="O2-1" group="Class1" istwoway="false"/>
+    <Edge guid="A6813DFA4F6C" edgeName="link_145" node1="O2-1" node2="O2-4" group="Class1" istwoway="false"/>
+  </Edges>
+    <EdgesForNewConceptors>
+    <Edge1 guid="f5ffabe9f23e" edgeName="link_215" node1="$1" node2="O1-1" group="Part_of" istwoway="false"/>
+    <Edge1 guid="696c9c0d40bb" edgeName="link_216" node1="$1" node2="O1-2" group="Part_of" istwoway="false"/>
+    <Edge1 guid="1d99583026b3" edgeName="link_217" node1="$2" node2="O1-2" group="Part_of" istwoway="false"/>
+    <Edge1 guid="bbe6cc3e0bd4" edgeName="link_218" node1="$2" node2="O1-3" group="Part_of" istwoway="false"/>
+    <Edge1 guid="b58fe8138023" edgeName="link_219" node1="$2" node2="O1-4" group="Part_of" istwoway="false"/>
+    <Edge1 guid="200dcee07f21" edgeName="link_220" node1="$5" node2="O1-3" group="Part_of" istwoway="false"/>
+    <Edge1 guid="949a3019d294" edgeName="link_221" node1="$5" node2="O1-4" group="Part_of" istwoway="false"/>
+    <Edge1 guid="cb5dd0f6cda0" edgeName="link_222" node1="$3" node2="O2-1" group="Part_of" istwoway="false"/>
+    <Edge1 guid="edf0b2d7eafe" edgeName="link_223" node1="$3" node2="O2-2" group="Part_of" istwoway="false"/>
+    <Edge1 guid="edf0b2d7enfe" edgeName="link_224" node1="$3" node2="O2-4" group="Part_of" istwoway="false"/>
+    <Edge1 guid="bbc3964cbc28" edgeName="link_225" node1="O2-1" node2="O2-4" group="Part_of" istwoway="false"/>
+ </EdgesForNewConceptors>
+
+</Graph>
